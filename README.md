@@ -18,7 +18,7 @@
  ## During the Bootcamp I Do some Module Project To Explore My Skills
 - ### [Project 1:**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Kavi01ns/Excel-Healthcare-Insights/tree/main).
 - ### [Project 2:**Power BI** Capstone Project - *Bank Loan Performance Analysis*]().
--  ### [Project 2:**MySQL ** Capstone Project - *_E-Commerce Customer Churn Analysis*](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
+-  ### [Project 2:**MySQL** Capstone Project - *_E-Commerce Customer Churn Analysis*](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
  ## Recent Goals
   - To Get a Job In Reputed Company
   - Develop My Communications
