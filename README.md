@@ -14,6 +14,7 @@
    - Power BI
    - MySQL Database
    - Python
+ - # My internship
 # Data Science and Machine Learing Bootcamp
  ## During the Bootcamp I Do some Module Project To Explore My Skills
 - ### [Project 1:**Excel** Capstone Project - *Healthcare Analysis and Insights* ](https://github.com/Kavi01ns/Excel-Healthcare-Insights/tree/main).
