@@ -26,7 +26,7 @@
 - - ### [*MYSQL* Mini_Project ](https://github.com/Kavi01ns/MYSQL_Mini_Projects).
 - ### [Project 3: *MYSQL* Capstone Project -  E-Commerce Customer Churn Analysis](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
 - - ### [*Python* Mini_Project ](https://github.com/Kavi01ns/Python_Mini_Projects).
-- ### [Project 4:*Python* Capstone Project - Marketing Campaign Performance Insights ]().
+- ### [Project 4:*Python* Capstone Project - Marketing Campaign Performance Insights ](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
  # Recent Goals
   - I want created so attractive Data Visualization & Business Insight with using so many tools 
   - I am focused on building a new career of IT industry
