@@ -22,7 +22,7 @@
 - - ### [*Excel* Mini_Project ](https://github.com/Kavi01ns/Excel_Mini-_Projects).
 - ### [Project 1:*Excel* Capstone Project - Healthcare Analysis and Insights ](https://github.com/Kavi01ns/Excel-Healthcare-Insights).
 - - ### [*Power BI* Mini_Project ](https://github.com/Kavi01ns/PowerBI_Mini_Projects).
-- ### [Project 2:*Power BI* Capstone Project - Bank Loan Performance Analysis](https://github.com/Kavi01ns/Power-BI-Module-Project).
+- ### [Project 2:*Power BI* Capstone Project - Bank Loan Performance Analysis]([https://github.com/Kavi01ns/Power-BI-Module-Project](https://drive.google.com/drive/folders/1fam4JzzwmCXv5xoJ56BOjHgxvW1-XBDt?usp=sharing)).
 - - ### [*MYSQL* Mini_Project ](https://github.com/Kavi01ns/MYSQL_Mini_Projects).
 - ### [Project 3:*MySQL Capstone Project - * E-Commerce Customer Churn Analysis](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
 - - ### [*Python* Mini_Project ](https://github.com/Kavi01ns/Python_Mini_Projects).
