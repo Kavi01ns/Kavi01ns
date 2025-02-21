@@ -28,7 +28,7 @@
 - - ### [*Python* Mini_Project ](https://github.com/Kavi01ns/Python_Mini_Projects).
 - ### [Project 4:*Python* Capstone Project - Marketing Campaign Performance Insights ](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
  # My own works
- - ### [*PowerBI* Projects ]().
+ - ### [*PowerBI* Projects ](https://github.com/Kavi01ns/PowerBI_Projects).
  # Recent Goals
   - I want created so attractive Data Visualization & Business Insight with using so many tools 
   - I am focused on building a new career of IT industry
