@@ -27,7 +27,7 @@
 - ### [Project 3: *MYSQL* Capstone Project -  E-Commerce Customer Churn Analysis](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
 - - ### [*Python* Mini_Projects ](https://github.com/Kavi01ns/Python_Mini_Projects).
 - ### [Project 4:*Python* Capstone Project - Marketing Campaign Performance Insights ](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
-- - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/Python_Mini_Projects).
+- - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/Machine-Learning-projects).
  # My own works
  - ### [*PowerBI* Projects ](https://github.com/Kavi01ns/PowerBI_Projects).
  - ### [*Python* Projects ](https://github.com/Kavi01ns/Python-Projects).
