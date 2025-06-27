@@ -29,6 +29,7 @@
 - - ### [*Python* Mini_Projects ](https://github.com/Kavi01ns/Python_Mini_Projects).
 - ### [Project 4:*Python* Capstone Project - Marketing Campaign Performance Insights ](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
 - - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/Machine-Learning-projects).
+- -  ### [Project 5:*Machine Learning* Capstone Project - Credit Card Fraud Detection ](https://github.com/Kavi01ns/Machine-Learning-Capstone-Project-Credit-Card-Fraud-Detection).
  # My own works
  - ### [*PowerBI* Projects ](https://github.com/Kavi01ns/PowerBI_Projects).
  - ### [*Python* Projects ](https://github.com/Kavi01ns/Python-Projects).
