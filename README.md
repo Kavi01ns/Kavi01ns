@@ -16,6 +16,7 @@
 - Power BI (DAX, Data Modeling)
 - SQL (Query Optimization, Joins, Subqueries)
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
+- Machine Learing 
 # Extra Course
 ## Data Science and Machine Learing Bootcamp
  ## During the Bootcamp I Do some Module Project To Explore My Skills
