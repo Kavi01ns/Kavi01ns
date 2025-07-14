@@ -8,8 +8,8 @@
    "A highly motivated postgraduate in Chemistry transitioning into Data Science, with a strong foundation in Python, SQL, Power BI, and Data Analysis. Passionate about leveraging analytical and problem-solving skills to extract meaningful insights from data. Seeking an opportunity to apply my knowledge and contribute to data-driven decision-making in a dynamic organization."
 # Contact
   ### Phone No: +91 8098046865
-  ### Email ID: kavi01ns@gamil.com
-  ### linkedIn URL: https://www.linkedin.com/in/kavibalan-n-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavibalan-n)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavi01ns@gamil.com)
 # Computer Skills
 - Data Analysis & Visualization
 - Advanced Excel (Pivot Tables, Power Query)
