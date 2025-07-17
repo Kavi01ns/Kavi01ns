@@ -38,3 +38,74 @@
   - I want created so attractive Data Visualization & Business Insight with using so many tools 
   - I am focused on building a new career of IT industry
   - I need to develop my Communications
+
+
+
+
+# 👋 Hi, I’m KAVIBALAN
+
+🎓 **Chemistry Postgraduate | Aspiring Data Scientist | Python | SQL | Power BI**
+
+From Paramakudi, Tamil Nadu, India 🇮🇳  
+Currently upskilling through a Data Science and Machine Learning Bootcamp (Entri Elevate & Illinois Tech).
+
+---
+
+## 🚀 What I’m Working On
+
+- 📊 **Data Analysis & Visualization:**  
+  Using **Excel**, **Power BI**, **SQL**, and **Python** for real-world data projects.
+- 🤖 **Machine Learning:**  
+  Building predictive models, EDA, and storytelling through data.
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [Excel Capstone Project – Healthcare Data Insights](#)
+> Advanced cleaning, pivot tables, and dashboards for healthcare data trends.
+
+### 🔹 [Power BI Capstone Project – Bank Loan Performance](#)
+> Visual analytics, KPIs, and interactive dashboards to assess loan KPIs.
+
+### 🔹 [MySQL Capstone Project – E-Commerce Churn Analysis](#)
+> Query optimization, joins, and customer churn segmentation.
+
+### 🔹 [Python Capstone Project – Marketing Campaign Insights](#)
+> Exploratory data analysis, plots, trends, and recommendations.
+
+### 🔹 [Machine Learning Capstone Project – Credit Card Fraud Detection](#)
+> Classification models to detect fraud, feature engineering, and evaluation.
+
+---
+
+## 🧰 Tech & Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=seaborn&logoColor=white)
+
+---
+
+## 🎯 Current Goals
+
+- 💡 Build attractive, impactful **dashboards** & **insights**
+- 📈 Strengthen my **ML & Python** modeling skills
+- ✨ Grow my **communication** & **professional network**
+- 🏢 Transition to an IT/Data career
+
+---
+
+## 📬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavibalan-n)  
+📧 **Email:** kavi01ns@gmail.com
+
+---
+
+_✨ **Open to collaboration, internships & data opportunities!**_
+
