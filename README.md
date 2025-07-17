@@ -13,7 +13,7 @@ Currently upskilling through a Data Science and Machine Learning Bootcamp (Entri
 ---
 ## 📬 Let’s Connect!
 
-### **LinkedIn: ** www.linkedin.com/in/kavibalan-n-
+### **LinkedIn:** www.linkedin.com/in/kavibalan-n-
 ### **Email:** kavi01ns@gmail.com
 ### **Phone No:** +91 8098046865
 
