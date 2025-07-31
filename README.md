@@ -67,6 +67,7 @@ Currently upskilling through a Data Science and Machine Learning Bootcamp (Entri
 
  ## My own works
  - ### [*PowerBI* Projects ](https://github.com/Kavi01ns/PowerBI_Projects).
+ - ### [*MYSQL* Projects ](https://github.com/Kavi01ns/MYSQL_Projects-).
  - ### [*Python* Projects ](https://github.com/Kavi01ns/Python-Projects).
  - ### [*Machine Learning* Projects ](https://github.com/Kavi01ns/Machine-Learning---Projects).
 
