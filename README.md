@@ -44,23 +44,23 @@
 ---
 
 ## 📌 Featured Projects
-- - ### [*Excel* Mini_Projects ](https://github.com/Kavi01ns/Excel_Mini-_Projects).
+- - ### [*Excel* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/1.Excel).
 ### 🔹 [Excel Capstone Project – Healthcare Data Insights](https://github.com/Kavi01ns/Excel-Healthcare-Insights).
 > Advanced cleaning, pivot tables, and dashboards for healthcare data trends.
 
-- - ### [*Power BI* Mini_Projects ](https://github.com/Kavi01ns/PowerBI_Mini_Projects).
+- - ### [*Power BI* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/2.Power%20BI).
 ### 🔹 [Power BI Capstone Project – Bank Loan Performance](https://drive.google.com/drive/folders/1fam4JzzwmCXv5xoJ56BOjHgxvW1-XBDt?usp=sharing).
 > Visual analytics, KPIs, and interactive dashboards to assess loan KPIs.
 
-- - ### [*MYSQL* Mini_Projects ](https://github.com/Kavi01ns/MYSQL_Mini_Projects).
+- - ### [*MYSQL* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/3.MYSQL).
 ### 🔹 [MySQL Capstone Project – E-Commerce Churn Analysis](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
 > Query optimization, joins, and customer churn segmentation.
 
-- - ### [*Python* Mini_Projects ](https://github.com/Kavi01ns/Python_Mini_Projects).
+- - ### [*Python* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/4.Python).
 ### 🔹 [Python Capstone Project – Marketing Campaign Insights](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
 > Exploratory data analysis, plots, trends, and recommendations.
 
-- - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/Machine-Learning-projects).
+- - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/5.Machine%20Learning).
 ### 🔹 [Machine Learning Capstone Project – Credit Card Fraud Detection](https://github.com/Kavi01ns/Machine-Learning-Capstone-Project-Credit-Card-Fraud-Detection).
 > Classification models to detect fraud, feature engineering, and evaluation.
 
