@@ -38,9 +38,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-43B02A?style=for-the-badge&logo=seaborn&logoColor=white)
-- Data Analysis & Visualization
-- Tools: Jupyter notebook, Google Colab, Github
-- Machine Learing : [Scikit-learn, Supervised & Unsupervised Learning, Feature Engineering, Model Training].
+- **Data Analysis** & **Visualization**
+- **Tools :** Jupyter notebook, Google Colab, Github
+- **Machine Learing :** [Scikit-learn, Supervised & Unsupervised Learning, Feature Engineering, Model Training].
 ---
 
 ## 📌 Featured Projects
