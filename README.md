@@ -45,7 +45,7 @@
 
 ## 📌 Featured Projects
 - - ### [*Excel* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/1.Excel).
-### 🔹 [Excel Capstone Project – Healthcare Data Insights](https://github.com/Kavi01ns/Excel-Healthcare-Insights).
+### 🔹 [Excel Capstone Project – Healthcare Data Insights](https://github.com/Kavi01ns/All_Capstone_Projects/tree/main/1.Excel).
 > Advanced cleaning, pivot tables, and dashboards for healthcare data trends.
 
 - - ### [*Power BI* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/2.Power%20BI).
@@ -53,15 +53,15 @@
 > Visual analytics, KPIs, and interactive dashboards to assess loan KPIs.
 
 - - ### [*MYSQL* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/3.MYSQL).
-### 🔹 [MySQL Capstone Project – E-Commerce Churn Analysis](https://github.com/Kavi01ns/MySQL-Capstone-Project__E-Commerce-Customer-Churn-Analysis).
+### 🔹 [MySQL Capstone Project – E-Commerce Churn Analysis](https://github.com/Kavi01ns/All_Capstone_Projects/tree/main/3.MYSQL).
 > Query optimization, joins, and customer churn segmentation.
 
 - - ### [*Python* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/4.Python).
-### 🔹 [Python Capstone Project – Marketing Campaign Insights](https://github.com/Kavi01ns/Python-Capstone-Project---Marketing-Campaign-Performance-Insights-).
+### 🔹 [Python Capstone Project – Marketing Campaign Insights](https://github.com/Kavi01ns/All_Capstone_Projects/tree/main/4.Python).
 > Exploratory data analysis, plots, trends, and recommendations.
 
 - - ### [*Machine Learning* Mini_Projects ](https://github.com/Kavi01ns/All_Mini_Projects-/tree/main/5.Machine%20Learning).
-### 🔹 [Machine Learning Capstone Project – Credit Card Fraud Detection](https://github.com/Kavi01ns/Machine-Learning-Capstone-Project-Credit-Card-Fraud-Detection).
+### 🔹 [Machine Learning Capstone Project – Credit Card Fraud Detection](https://github.com/Kavi01ns/All_Capstone_Projects/tree/main/5.Machine%20Learning).
 > Classification models to detect fraud, feature engineering, and evaluation.
 
 ---
