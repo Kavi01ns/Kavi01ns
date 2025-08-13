@@ -4,9 +4,9 @@
 
  **Chemistry Postgraduate | Aspiring Data Scientist | Python | SQL | Power BI Excel | Machine learning | Data Visualization**
 
-current Location Chennai, Tamil Nadu, India 🇮🇳. 
-Native Paramakudi, Ramanathapuram, Tamil Nadu, India 🇮🇳.  
-Currently upskilling through a Data Science and Machine Learning Bootcamp (Entri Elevate & Illinois Tech).
+- current Location Chennai, Tamil Nadu, India 🇮🇳. 
+- Native Paramakudi, Ramanathapuram, Tamil Nadu, India 🇮🇳.  
+- Currently upskilling through a Data Science and Machine Learning Bootcamp (Entri Elevate & Illinois Tech).
 
 ## Objective
 "A highly motivated postgraduate in Chemistry transitioning into Data Science, with a strong foundation in Python, SQL, Power BI, and Data Analysis. Passionate about leveraging analytical and problem-solving skills to extract meaningful insights from data. Seeking an opportunity to apply my knowledge and contribute to data-driven decision-making in a dynamic organization."
